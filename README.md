@@ -17,6 +17,9 @@ Google Sheets, Data Cleaning, Pivot Tables, Formulas
 - Enables comparison across positions (C, LW, RW, D)
 - Highlights team-level performance differences
 
+## Example Insight
+Defensemen show significantly lower goal production compared to forwards, but contribute more evenly across assists and overall point distribution depending on team structure.
+
 ## Live Dashboard
 [View Google Sheets Dashboard](https://docs.google.com/spreadsheets/d/1kWoLdjl0N7eLvtJpBocokd1LhVeE71aaiWMO4wc5rl4/edit?usp=drive_link))
 
