@@ -23,5 +23,8 @@ Defensemen show significantly lower goal production compared to forwards, but co
 ## Live Dashboard
 [View Google Sheets Dashboard](https://docs.google.com/spreadsheets/d/1kWoLdjl0N7eLvtJpBocokd1LhVeE71aaiWMO4wc5rl4/edit?usp=drive_link))
 
-## Preview
-![Dashboard](visuals/dashboard.png)
+## Dashboard Preview
+
+![Overview](image-1.png)
+![Player Comparison](image-2.png)
+![Pivot Analysis](image-3.png)
