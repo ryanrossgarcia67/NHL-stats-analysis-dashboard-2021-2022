@@ -18,7 +18,7 @@ Google Sheets, Data Cleaning, Pivot Tables, Formulas
 - Highlights team-level performance differences
 
 ## Live Dashboard
-[View Google Sheets Dashboard](your-link-here)
+[View Google Sheets Dashboard]([your-link-here](https://docs.google.com/spreadsheets/d/1kWoLdjl0N7eLvtJpBocokd1LhVeE71aaiWMO4wc5rl4/edit?usp=drive_link))
 
 ## Preview
 ![Dashboard](visuals/dashboard.png)
